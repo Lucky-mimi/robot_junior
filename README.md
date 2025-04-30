@@ -1,2 +1,7 @@
-# robot-junior
-basic robot, work with ai.
+## 版本nodejs v18+
+
+```bash
+# Install
+npm i 
+npm run dev
+```
